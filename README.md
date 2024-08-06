@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vinda/o ao meu perfil ♀️
 
-<!--
-**ProfaClaOliveira/profaclaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou professora de tecnologia, inovação e robótica na escola Mattos Gobbo em Americana/SP
 
-Here are some ideas to get you started:
+Vou usar esse espaço para organizar minhas aulas de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contato📧
+clarissao@prof.educacao.sp.gov.br
+
+@_aclaoliveira
+
+@resenhasdaCla
+
+![](https://media.tenor.com/CCqQcD1gtuAAAAAM/studio-ghibli.gif)
+
+
